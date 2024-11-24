@@ -1,0 +1,10 @@
+.content{
+    display: flex;
+}
+.d1,.d2,.d3{
+width: 300px;
+height: 500px;
+background-color: white;
+box-shadow: 5px 10px black;
+justify-content: space-between;
+}
